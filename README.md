@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on bioinformatics, NLP, linux, R and Python. 
 - 📫 Welcome to contact me! 
   - Email: 17822001595@163.com  
-  - WeChat: l867971523
+  - WeChat: ly18800131028
 
 <!---
 Liao17822001595/Liao17822001595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
